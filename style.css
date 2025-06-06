@@ -5,13 +5,12 @@
     font-family: "Libre Baskerville", serif;
     font-weight: 700;
     font-style: normal;
-}
-
-html {
-    height: 100vh;
+    background-color: #228a9ce3;
+    color: #2ee455cb;
 }
 
 body {
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
