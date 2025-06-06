@@ -8,4 +8,4 @@ let dice1 = document.querySelector(".dice-one")
 dice1.setAttribute("src", `./images/dice${randomNum1}.png`)
 
 let dice2 = document.querySelector(".dice-two")
-dice1.setAttribute("src", `./images/dice${randomNum2}.png`)
+dice2.setAttribute("src", `./images/dice${randomNum2}.png`)
